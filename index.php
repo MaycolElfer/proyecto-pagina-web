@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html style="width: 10px;height: 25px;"><head><meta http-equiv="Content-Type" content=" charset=UTF-8">
+<html style="width: 10px;height: 25px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 	<title> Maycol SACC,agencia de viajes,travel empresa formado por viajes a todo el mundo mejores vuelos encuentras en Maycol SACC</title>
+<link rel="" type="" title="TRUJILLO TRAVEL " href="http://trujillotravel.pe/feed/">
+<link rel="" type="" title="TRUJILLO TRAVEL - Agencia de viajes y Turismo » RSS de los comentarios" href="http://trujillotravel.pe/comments/feed/">
+<link rel="stylesheet" id="pkt-style-css" href="./index_files/style.css" type="text/css" media="all">
 </head> 
 <body style="width: 90px;">
 <div>
@@ -44,7 +47,7 @@
     width: 100px;">
 	<div style="float:left; ">
 <img src="imagen/Twitter.png" style="width: 50px;height: 43px;float: left;font-weight: bolder;margin-left: 739px;margin-top: -50px;" alt="">
-<span style="width: 11px;height: 27px;font-size: 27px;float: left;font-weight: bolder;margin-left: 807px;margin-top: -44px;color: #181A7F;">info@MaycolElfer
+<span style="width: 11px;height: 27px;font-size: 27px;float: left;font-weight: bolder;margin-left: 807px;margin-top: -44px;color: #181A7F;">info@Maycol.com
 </span>
 
 </div>
