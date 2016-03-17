@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html style="width: 10px;height: 25px;"><head><meta http-equiv="Content-Type" content=" charset=UTF-8">
+
+	<title> Maycol SACC,agencia de viajes,travel empresa formado por viajes a todo el mundo mejores vuelos encuentras en Maycol SACC</title>
+</head> 
+<body style="width: 90px;">
+<div>
+	<div class="top-navigation-wrapper boxed-style">
+	<div class="top-navigation-container container">
+	<div class="top-social-wrapper">
+	<div id="gdl-social-icon" class="social-wrapper gdl-retina">
+	<div class="social-icon-wrapper">
+	<div class="social-icon"><a target="_blank" href="https://www.facebook.com/">
+	<img src="imagenes/Facebook.png" style="width: 50px;height: 43px;float: left;margin-left: 47px;margin-top: -2px;" alt="">
+	</a></div><a target="_blank" href="https://www.facebook.com/">
+
+	</a><div class="social-icon"><a target="_blank" href="https://www.facebook.com/"></a><a target="_blank" href="https://twitter.com/">
+	<img src="imagenes/Twitter.png" alt="twitter" style="width: 56px;float: left;margin-left: 147px;margin-top: -39px;height: 47px;"></a>
+	</div>
+
+	<div class="social-icon"><a target="_blank" href="https://youtube.com/">
+	<img src="imagenes/youtube.png" alt="youtube" class="" style="width: 92px;height: 71px;float: left;margin-left: 251px;margin-top: -57px;"></a>
+	</div>
+	
+</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+
+
+
+	<div class="top-navigation-left-text" style="width: 85px;height: 45px;font-size: 20px;float: left;font-weight: bolder;margin-left: 407px;margin-top: -59px;a;color: blue;">Buscar Paquetes</div>
+	<input type="text" class="form-control" placeholder="Search" style="width: 212px;height: 26px;font-size: 27px;float: left;font-weight: bolder;margin-left: 502px;margin-top: -51px;">
+	
+	
+
+
+<div class="clear"></div>
+	
+	
+	<div class="top-navigation-right-text" style="
+    width: 100px;">
+	<div style="float:left; ">
+<img src="imagen/Twitter.png" style="width: 50px;height: 43px;float: left;font-weight: bolder;margin-left: 739px;margin-top: -50px;" alt="">
+<span style="width: 11px;height: 27px;font-size: 27px;float: left;font-weight: bolder;margin-left: 807px;margin-top: -44px;color: #181A7F;">info@MaycolElfer
+</span>
+
+</div>
+<div style="float:left; ">
+<img src="bandera/peru.png" style="width: 57px;height: 34px;float: left;font-weight: bolder;margin-left: 1063px;margin-top: -48px;" alt="">
+<span style="width: 75px;height: 29px;font-size: 35px;float: left;font-weight: bolder;margin-left: 1138px;margin-top: -49px;">966694764</span>
+</div>
+
+<div class="clear"></div>
+<div class="logo-wrapper" style="width: 10px;height: 20px;">
+<h1 href="http://trujillotravel.pe/" style="
+    height: 30px;
+"><img src="imagen/Rumbotravelmasopciones.png" alt="" style="
+    margin-left: 86px;
+    width: 1159px;
+"></h1>
+</div>
+
+<div class="top-navigation-left-text" style="width: 30px;height: 30px;font-size: 31px;float:left;font-weight: bolder;margin-left: 35px;margin-top: 247px;color: blue;text-decoration: underline;">pagina principal</div>
+<div class="top-navigation-left-text" style="width: 30px;height: 30px;font-size: 30px;float:left;font-weight: bolder;margin-left: 241px;margin-top: -30px;color: blue;text-decoration: underline;">boletos aereos</div>
+
+<div class="top-navigation-left-text" style="width: 30px;height: 30px;font-size: 30px;float:left;font-weight: bolder;margin-left: 463px;margin-top: -29px;color: blue;text-decoration: underline;">boletos autobus</div>
+
+<div class="top-navigation-left-text" style="width: 30px;height: 30px;font-size: 30px;float:left;font-weight: bolder;margin-left: 746px;margin-top: -28px;color: blue;text-decoration: underline;">boletos vacacionales</div>
+
+<div class="top-navigation-left-text" style="width: 30px;height: 30px;font-size: 26px;float:left;font-weight: bolder;margin-left: 1070px;margin-top: -18px;color: blue;text-decoration: underline;">video</div>
+
+
+<div class="navigation-wrapper sliding-bar">
+<div class="gdl-current-menu"></div>
+
+<div id="layerslider_14" class="ls-wp-container" style="width:120px;height:67px;margin:0 auto;margin-bottom: 0px;">
+</div>
+
+<div class="carousel-inner">
+				<img data-src="imagen/banner-fotos2.jpg" alt="First slide" src="imagen/banner-fotos2.jpg" style="width: 813px;height: 325px;margin-left: 488px;margin-top: 48px;">
+				</div>
+
+
+	<div class="carousel-inner">
+	<div class="item">
+	
+	<img data-src="" alt="imagen/contenedor-paquetes-vacacionales.png" src="imagen/contenedor-paquetes-vacacionales.png" style="width: 465px;height: 324px;float: left;margin-left: 15px;margin-top: -324px;background-color: chartreuse;">
+				 </div>
+
+   <div class="carousel-inner">
+	<div class="item">
+	<img data-src="" alt="imagen/contenedor-paquetes-vacacionales.png" src="imagen/contenedor-paquetes-vacacionales.png" style="width: 445px;height: 405px;float: left;margin-left: 872px;margin-top: 11px;background-color: chartreuse;">
+				 </div>
+
+
+ <div class="carousel-inner">
+	<div class="item">
+	
+            <img data-src="" alt="imagen/contenedor-boletos-autobus.png" src="imagen/contenedor-boletos-autobus.png" style="width: 474px;height: 442px;float: left;margin-left: 390px;margin-top: -399px;background-color: chartreuse;">
+				 </div>
+
+    <div class="carousel-inner">
+	<div class="item">
+	
+              <img data-src="" alt="imagen/boletos-aereos.jpg" src="imagen/boletos-aereos.jpg" style="width: 383px;height: 438px;float: left;margin-left: 2px;margin-top: -440px;background-color: chartreuse;">
+              </div>
+
+<div class="carousel-inner">
+	<div class="item">
+	
+            <video <video="" autobuffer="" autoloop="" loop="" controls="" style="width: 636px;float: left;margin-left: 8px;margin-top: 15px;">
+              	<source src="/media/video.oga">
+              	<source src="video/Feid - Si Te Vas l Video Lyric.mp4">
+              	<object type="video/ogg" data="./index_files/video.oga" width="320" height="240">
+              	<param name="src" value="/media/video.oga">
+              	<param name="autoplay" value="false">
+              	<param name="autoStart" value="0">
+              	<p><a href="">Download this video file.</a></p>
+              	</object>
+              </video>
+              <div class="carousel-inner">
+	<div class="item">
+          <video <video="" autobuffer="" autoloop="" loop="" controls="" style="float: left;margin-left: 643px;margin-top: -361px;width: 697px;height: 370px;">
+              	<source src="/media/video.oga">
+              	<source src="video/Kent Y Tony - No Me Llames Mas.mp4">
+              	<object type="video/ogg" data="./index_files/video.oga" width="320" height="240">
+              	<param name="src" value="/media/video.oga">
+              	<param name="autoplay" value="false">
+              	<param name="autoStart" value="0">
+              	<p><a href="">Download this video file.</a></p>
+              	</object>
+              </video>
+
+      <table width="940" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tbody style="width: 1182px;font-size: 22px;float: left;font-weight: bolder;margin-left: 51px;background: blue;color: mediumspringgreen;">
+        <tr>
+          <td>
+          <h4>Venta de boletos aereos desde y hacia los Estados Unidos, Mexico, El Salvador, Honduras y todo el mundo. Maycol SACC <br>
+            Tambien venta de boletos de autobus hacia los aeropuertos de Tijuana y Los Angeles. y todo el continente americano <br>
+            Conexiones a los estados de Oregon, Washington, Arizona y Texas. Alaska <br>
+            Renta de autos, venta de cruceros, y  paquetes vacacionales a cualquier parte del mundo!!!</h4></td>
+        </tr>
+      </tbody>
+      </table>
+      
+
+
+ 
+      <img src="imagen/Rumbotravel.jpg" style="width: 609px;height: 131px;margin-left: 27px;">&gt;
+ 
+
+          <div align="center"><a href="http://webipc.com/"><img src="imagen/WebPc.jpg" style="width=120px;height=39px;width: 257px;float: left;margin-left: 1011px;margin-top: -125px;"></a></div> 
+
+<marquee behavior="" direction="" style=" height: 63px; width: 1000px;">
+         <h4 style="font-size: 52px;margin-left: 54px;margin-top: 7px;color: turquoise;">AUTOR:Maycol ELfer Enrique Espinoza 12/06/97</h4>
+
+  </marquee>
+
+</div>
+
+</div></div></div></div></div></div></div></div></div></body></html>
